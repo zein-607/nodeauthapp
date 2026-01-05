@@ -10,9 +10,9 @@
   "dependencies": {
     "bcryptjs": "*",
     "bluebird": "*",
-    "body-parser": "*",
+    "body-parser": "1.20.4",
     "cors": "*",
-    "express": "*",
+    "express": "4.22.0",
     "jsonwebtoken": "*",
     "mongoose": "*",
     "passport": "*",
